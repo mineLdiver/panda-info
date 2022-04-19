@@ -1,0 +1,5 @@
+{
+  "gui.panda-info.main_gene": "Main gene: %s",
+  "gui.panda-info.hidden_gene": "Hidden gene: %s",
+  "gui.panda-info.product_gene": "Product gene: %s"
+}

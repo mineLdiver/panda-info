@@ -1,0 +1,5 @@
+{
+  "gui.panda-info.main_gene": "Доминантный ген: %s",
+  "gui.panda-info.hidden_gene": "Рецессивный ген: %s",
+  "gui.panda-info.product_gene": "Панда: %s"
+}
