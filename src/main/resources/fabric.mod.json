@@ -3,14 +3,14 @@
   "id": "panda-info",
   "version": "${version}",
 
-  "name": "PandaInfo",
+  "name": "Panda Info",
   "description": "Shift+RMB on panda to show its genes",
   "authors": [
     "mine_diver",
     "PusGarlic"
   ],
   "contact": {
-    "homepage": "",
+    "homepage": "https://modrinth.com/mod/panda-info",
     "sources": "https://github.com/mineLdiver/panda-info",
     "issues": "https://github.com/mineLdiver/panda-info/issues"
   },
