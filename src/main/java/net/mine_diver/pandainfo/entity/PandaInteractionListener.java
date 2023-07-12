@@ -21,9 +21,9 @@ public class PandaInteractionListener implements UseEntityCallback {
     public ActionResult interact(PlayerEntity player, World world, Hand hand, Entity entity, @Nullable EntityHitResult hitResult) {
         if (player.isSneaking() && entity instanceof PandaEntity panda) player.sendMessage(
                 Texts.join(List.of(
-                        Text.translatable("gui.panda-info.main_gene", panda.getMainGene()).formatted(Formatting.GOLD),
-                        Text.translatable("gui.panda-info.hidden_gene", panda.getHiddenGene()).formatted(Formatting.AQUA),
-                        Text.translatable("gui.panda-info.product_gene", panda.getProductGene()).formatted(Formatting.GREEN)
+                        Text.translatable("gui.panda-info.main_gene", Text.translatable("gui.panda-info.gene." + panda.getMainGene())).formatted(Formatting.GOLD),
+                        Text.translatable("gui.panda-info.hidden_gene", Text.translatable("gui.panda-info.gene." + panda.getHiddenGene())).formatted(Formatting.AQUA),
+                        Text.translatable("gui.panda-info.product_gene", Text.translatable("gui.panda-info.gene." + panda.getProductGene())).formatted(Formatting.GREEN)
                 ), Text.of(" | ")),
                 true
         );
