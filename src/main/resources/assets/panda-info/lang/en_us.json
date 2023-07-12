@@ -1,5 +1,13 @@
 {
   "gui.panda-info.main_gene": "Main gene: %s",
   "gui.panda-info.hidden_gene": "Hidden gene: %s",
-  "gui.panda-info.product_gene": "Product gene: %s"
+  "gui.panda-info.product_gene": "Product gene: %s",
+
+  "gui.panda-info.gene.NORMAL": "Normal",
+  "gui.panda-info.gene.AGGRESSIVE": "Aggressive",
+  "gui.panda-info.gene.LAZY": "Lazy",
+  "gui.panda-info.gene.WORRIED": "Worried",
+  "gui.panda-info.gene.PLAYFUL": "Playful",
+  "gui.panda-info.gene.WEAK": "Weak",
+  "gui.panda-info.gene.BROWN": "Brown"
 }

@@ -1,5 +1,13 @@
 {
   "gui.panda-info.main_gene": "Доминантный ген: %s",
   "gui.panda-info.hidden_gene": "Рецессивный ген: %s",
-  "gui.panda-info.product_gene": "Панда: %s"
+  "gui.panda-info.product_gene": "Панда: %s",
+
+  "gui.panda-info.gene.NORMAL": "Обычная",
+  "gui.panda-info.gene.AGGRESSIVE": "Агрессивная",
+  "gui.panda-info.gene.LAZY": "Ленивая",
+  "gui.panda-info.gene.WORRIED": "Беспокойная",
+  "gui.panda-info.gene.PLAYFUL": "Игривая",
+  "gui.panda-info.gene.WEAK": "Слабая",
+  "gui.panda-info.gene.BROWN": "Коричневая"
 }

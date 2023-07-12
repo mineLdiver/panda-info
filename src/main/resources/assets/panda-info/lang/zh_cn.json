@@ -1,0 +1,13 @@
+{
+  "gui.panda-info.main_gene": "主要基因：%s",
+  "gui.panda-info.hidden_gene": "隐藏基因: %s",
+  "gui.panda-info.product_gene": "习性：%s",
+
+  "gui.panda-info.gene.NORMAL": "普通",
+  "gui.panda-info.gene.AGGRESSIVE": "好斗",
+  "gui.panda-info.gene.LAZY": "懒惰",
+  "gui.panda-info.gene.WORRIED": "忧郁",
+  "gui.panda-info.gene.PLAYFUL": "顽皮",
+  "gui.panda-info.gene.WEAK": "体弱",
+  "gui.panda-info.gene.BROWN": "棕色"
+}
